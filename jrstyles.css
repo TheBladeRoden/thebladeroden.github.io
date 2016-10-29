@@ -1,0 +1,96 @@
+h1 {
+  font-family: verdana;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-size: 13pt;
+  line-height: 15pt;
+  font-size-adjust: none;
+  font-stretch: normal;
+}
+h2 {
+  font-family: verdana;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-size: 8pt;
+  line-height: 12pt;
+  font-size-adjust: none;
+  font-stretch: normal;
+}
+a:link {
+  color: red;
+}
+a:visited {
+  color: maroon;
+}
+.news {
+  color: #8b1f1f;
+  font-size: larger;
+  font-family: Arial,Helvetica,sans-serif;
+  font-weight: bold;
+}
+
+.ULborder {
+	background-image: url(images/border_ul.gif);
+	background-attachment: scroll;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-color: #838383;
+}
+
+.UMborder {
+	background-image: url(images/border_um.gif);
+	background-attachment: scroll;
+	background-position: bottom;
+	background-repeat: repeat-x;
+	background-color: #838383;
+}
+
+.URborder {
+	background-image: url(images/border_ur.gif);
+	background-attachment: scroll;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-color: #838383;
+}
+
+.MLborder {
+	background-image: url(images/border_ml.gif);
+	background-attachment: scroll;
+	background-position: center;
+	background-repeat: repeat-y;
+	background-color: #838383;
+}
+
+.MRborder {
+	background-image: url(images/border_mr.gif);
+	background-attachment: scroll;
+	background-position: center;
+	background-repeat: repeat-y;
+	background-color: #838383;
+}
+
+.LLborder {
+	background-image: url(images/border_ll.gif);
+	background-attachment: scroll;
+	background-position: top;
+	background-repeat: no-repeat;
+	background-color: #838383;
+}
+
+.LMborder {
+	background-image: url(images/border_lm.gif);
+	background-attachment: scroll;
+	background-position: top;
+	background-repeat: repeat-x;
+	background-color: #838383;
+}
+
+.LRborder {
+	background-image: url(images/border_lr.gif);
+	background-attachment: scroll;
+	background-position: top;
+	background-repeat: repeat-x;
+	background-color: #838383;
+}
